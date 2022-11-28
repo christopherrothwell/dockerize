@@ -23,7 +23,6 @@ For example, nginx will log to `/var/log/nginx/access.log` and
 
 See [A Simple Way To Dockerize Applications](http://jasonwilder.com/blog/2014/10/13/a-simple-way-to-dockerize-applications/)
 
-
 ## Installation
 
 Download the latest version in your container:
